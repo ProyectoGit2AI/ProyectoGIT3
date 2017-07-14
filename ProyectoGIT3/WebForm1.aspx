@@ -12,7 +12,7 @@
     Hola Mundo v3
     </div>
     Hola 2
-    <div >algo nuevo</div>
+    <div id="DIV1">algo nuevos3</div>
     </form>
 </body>
 </html>
