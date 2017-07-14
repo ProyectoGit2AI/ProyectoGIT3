@@ -15,7 +15,7 @@
     Hola 2
 
     <div id="DIV1">asdsasdasdsaads</div>
-    <div>uno</div>
+    <div>tres</div>
     </form>
 </body>
 </html>
